@@ -1,4 +1,4 @@
-# product-card
+# Product Card
 
 practising HTML & CSS skills while studying on [Udemy courses](https://www.udemy.com/) <img style="margin: 10px" src="https://findlogovector.com/wp-content/uploads/2022/04/udemy-logo-vector-2022.png" alt="HTML5" height="30" />
 
